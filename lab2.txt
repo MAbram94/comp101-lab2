@@ -1,0 +1,17 @@
+My name is Mise'l Abram and I am a 31 year-old gay man and returning 4th year student, completing my Bachelor of Motion Picture Arts degree. I was born and raised in the Indigenous Canadian reservation of Millbrook First Nation. Since as long as I can remember living, I have been passionate about the dramatic arts, cinema and filmmaking. I have produced Telus Storyhive funded 10-minute short film called "Drift Softly" (2016), I was the Associate Producer on a 100-minute feature film called "River of Silence" (2017), and I was a Supervising Producer on the  "Indian Road Trip" (2019). Just this year, I completed writing my first feature film called "The Savage" which is a 157 page screenplay.
+
+Lab 2 Questions and Answers:
+
+You have created a GitHub repository and want to share it with your friend Bob by sending him the repository link. When Bob clicks the link in his web browser, some communication happens over the internet. Explain step by step what happens using the concepts of client and server. In your explanation, make sure to mention:
+
+1. Which device acts as a client?  
+Answer: Bob's device is the client because it acts as an interface between him as a user and the content hosted by me on GitHub (the web server).
+
+2. Which device acts as the server?
+Answer: GitHub as a webpage is the server, because it is a software that stores, processes and serves my webpages like my Lab 2, to internet users like Bob.
+
+3. How Bob's browser requests the repository content?
+Answer: When a user enters a URL in a web browser, the web browser sends an HTTP request to the server identified by the URL.
+
+4. How the server responds and sends the content back to Bob?
+Answer: Web clients use the HTTP protocol to communicate with web servers and the web servers process these requests and respond with the requested content. 
